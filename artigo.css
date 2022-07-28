@@ -1,0 +1,32 @@
+#h1-art {
+    text-align: center;
+    font-size: 80px;
+    color: green;
+    text-decoration-line: underline;
+    font-family: Impact, fantasy;
+}
+
+h2 {
+    font-size: 30px;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+#imgdin {
+    padding: 0;
+    border-radius: 20px;
+    margin: 0;
+    width: 25%;
+}
+
+p {
+    color: white;
+}
+
+footer {
+    color: green;
+    text-align: center;
+}
